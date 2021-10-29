@@ -29,3 +29,8 @@ console.log(x1);
 //equal operator
 console.log(3==3);
 //not equal operator (!=)
+console.log(3!=3);
+//Strict equal operator(===)
+console.log(3===3);
+console.log(3==='3');
+
