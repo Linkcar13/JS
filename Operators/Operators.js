@@ -33,4 +33,12 @@ console.log(3!=3);
 //Strict equal operator(===)
 console.log(3===3);
 console.log(3==='3');
+//not equal Strict operator (!==)
+console.log(3!==3);
+// Exists also >, >=, <, <= operators
+console.log(3>3);
+console.log(3>=3);
+console.log(3<3);
+console.log(3<=3);
+
 
