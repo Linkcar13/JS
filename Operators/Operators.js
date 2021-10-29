@@ -25,4 +25,7 @@ console.log(x1);
 /**
  * Comparition operators 
  */
+
+//equal operator
 console.log(3==3);
+//not equal operator (!=)
